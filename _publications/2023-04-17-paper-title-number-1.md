@@ -1,9 +1,8 @@
 ---
 title: "Jumping Shift: A Logarithmic Quantization Method for Low-Power CNN Acceleration"
-Published in: 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)
 Date of Conference: 17-19 April 2023
 DOI: 10.23919/DATE56975.2023.10137169
-venue: 'Journal 1'
+venue: '2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)'
 paperurl: 'http://academicpages.github.io/files/Jumping Shift A Logarithmic Quantization Method.pdf'
 ---
 Abstract:

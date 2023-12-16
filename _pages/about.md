@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a digital circuit engineer from Huawei company. My research interest includes software-hardware co-design, low-power IC design, machine learning, and computational architecture.
+I'm currently a digital circuit engineer at Huawei company. My research interest includes software-hardware co-design, low-power IC design, machine learning, and computational architecture.
 
-#You can find my CV in PDF here: [Longxing Jiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+You can find my CV in PDF here: [Longxing Jiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)

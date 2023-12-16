@@ -10,5 +10,4 @@ redirect_from:
 
 I'm currently a digital circuit engineer from Huawei company. My research interest includes software-hardware co-design, low-power IC design, machine learning, and computational architecture.
 
-[Github](https://github.com/avalongxing)
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Longxing Jiang (leo)"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Longxing Jiang"
 description              : &description "personal description"

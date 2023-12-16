@@ -3,7 +3,7 @@ title: "Jumping Shift: A Logarithmic Quantization Method for Low-Power CNN Accel
 Date of Conference: 17-19 April 2023
 DOI: 10.23919/DATE56975.2023.10137169
 venue: '2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)'
-paperurl: 'http://academicpages.github.io/files/Jumping Shift A Logarithmic Quantization Method.pdf'
+paperurl: 'http://avalongxing.github.io/files/Jumping Shift A Logarithmic Quantization Method.pdf'
 ---
 Abstract:
 Logarithmic quantization for Convolutional Neural Networks (CNN): a) fits well typical weights and activation distributions, and b) allows the replacement of the multiplication operation by a shift operation that can be implemented with fewer hardware resources. We propose a new quantization method named Jumping Log Quantization (JLQ). The key idea of JLQ is to extend the quantization range, by adding a coefficient parameter “s” in the power of two exponents (2sx+i). This quantization strategy skips some values from the standard logarithmic quantization. In addition, we also developed a small hardware-friendly optimization called weight de-zero. Zero-valued weights that cannot be performed by a single shift operation are all replaced with logarithmic weights to reduce hardware resources with almost no accuracy loss. 

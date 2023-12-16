@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+title: "Jumping Shift: A Logarithmic Quantization Method for Low-Power CNN Acceleration"
+Published in: 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+Date of Conference: 17-19 April 2023
+DOI: 10.23919/DATE56975.2023.10137169
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://academicpages.github.io/files/Jumping Shift A Logarithmic Quantization Method.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Abstract:
+Logarithmic quantization for Convolutional Neural Networks (CNN): a) fits well typical weights and activation distributions, and b) allows the replacement of the multiplication operation by a shift operation that can be implemented with fewer hardware resources. We propose a new quantization method named Jumping Log Quantization (JLQ). The key idea of JLQ is to extend the quantization range, by adding a coefficient parameter “s” in the power of two exponents (2sx+i). This quantization strategy skips some values from the standard logarithmic quantization. In addition, we also developed a small hardware-friendly optimization called weight de-zero. Zero-valued weights that cannot be performed by a single shift operation are all replaced with logarithmic weights to reduce hardware resources with almost no accuracy loss. To implement the Multiply-And-Accumulate (MAC) operation (needed to compute convolutions) when the weights are JLQ-ed and de-zeroed, a new Processing Element (PE) has been developed. This new PE uses a modified barrel shifter that can efficiently avoid the skipped values. Resource utilization, area, and power consumption of the new PE standing alone are reported. We have found that JLQ performs better than other state-of-the-art logarithmic quantization methods when the bit width of the operands becomes very small.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Paper can be found here](http://academicpages.github.io/files/Jumping Shift A Logarithmic Quantization Method.pdf)

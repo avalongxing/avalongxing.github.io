@@ -10,3 +10,4 @@ Logarithmic quantization for Convolutional Neural Networks (CNN): a) fits well t
 To implement the Multiply-And-Accumulate (MAC) operation (needed to compute convolutions) when the weights are JLQ-ed and de-zeroed, a new Processing Element (PE) has been developed. This new PE uses a modified barrel shifter that can efficiently avoid the skipped values. Resource utilization, area, and power consumption of the new PE standing alone are reported. We have found that JLQ performs better than other state-of-the-art logarithmic quantization methods when the bit width of the operands becomes very small.
 
 [Paper can be found here](http://avalongxing.github.io/files/Jumping Shift A Logarithmic Quantization Method.pdf)
+#https://github.com/avalongxing/avalongxing.github.io/blob/master/files/Jumping%20Shift%20A%20Logarithmic%20Quantization%20Method.pdf

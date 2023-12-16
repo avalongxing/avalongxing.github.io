@@ -68,7 +68,7 @@ accelerator are reported.
   
 Academic Publication
 ======
-Jumping Shift: A Logarithmic Quantization Method for Low-Power CNN Acceleration; First author 
+Jumping Shift: A Logarithmic Quantization Method for Low-Power CNN Acceleration;       First author 
 * Published in: 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE) 
 * DOI: 10.23919/DATE56975.2023.10137169 
 

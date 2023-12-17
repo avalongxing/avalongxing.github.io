@@ -31,9 +31,9 @@ Delft University of Technology                                          09/2020-
 Work experience
 ======
 Digital Circuit Engineer｜Huawei company, Hisilicon department                     	12/2022 - Now
-* Be responsible for the implementation of a submodule in chip SD8062V100 according to the well-written architectural scheme.
-* Serve as the Back End Support (BES) and the high-level block (HLB) owner for chip Diracv300. Be responsible for guaranteeing the correctness of clock and reset generation, module internal connection, design constraint setting, HLB synthesis, and the results of Synopsys Formality.
-* Independently design a submodule in chip SD8026. Be responsible for chip document writing (functional, architectural, and detailed design schemes), digital circuit conversion, PPA (power, performance, and area) refinement, and module verification. 
+* Be responsible for the implementation of a submodule in Network chip SD8062V100, including ETH protocol transcoding, and architectural scheme.
+* Serve as the Back End Support (BES) and the high-level block (HLB) owner for Optical module testament chip Diracv300, including clock and reset generation, High-speed SerDes interface adaptation, design constraint setting, HLB synthesis, and Synopsys Formality results analysis.
+* Independently design a submodule in Network chip SD8026, including chip document writing (functional, architectural, and detailed design schemes), digital circuit conversion, and PPA (power, performance, and area) refinement. 
 
 
 Project Experience 
@@ -51,11 +51,8 @@ ET4370 Reconfigurable Computing Design Course Project
 * Convert BNN-based image classifier into the digital circuit using Verilog. 
 
 New control project in Europe
-* Use C++ to simulate the control process of a CNN accelerator. 
-* Design a systolic-array architecture prototype for functional verification. 
-* Convert the control process of the systolic-array-based CNN accelerator into the digital circuit using Verilog, and then 
-guarantee the correctness of the internal connection between the control module and the computation module (done by a 
-postdoc colleague). 
+* Design a CDMA controller for the Harvard-architecture-based convolutional accelerator. 
+* Design a Fetcher module to fetch different instructions from instruction sets, and then coordinate operations needed in the weight-stationary systolic array. 
 
 Master Thesis Project： A New Logarithmic Quantization Technique and Corresponding Processing Element Design for CNN Accelerators 
 * Software part: Propose a new quantization method named JLQ that performs well when the bit width of the 

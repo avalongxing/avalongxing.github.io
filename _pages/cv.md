@@ -33,7 +33,7 @@ Work experience
 Digital Circuit Engineer｜Huawei company, Hisilicon department                     	12/2022 - Now
 * Be responsible for the implementation of a submodule in Network chip SD8062V100, including ETH protocol transcoding, digital circuit design, and behavioral simulation.
 * Serve as the Back End Support (BES) and the high-level block (HLB) owner for Optical module testament chip Diracv300, including clock and reset generation, High-speed SerDes interface adaptation, design constraint setting, HLB logic synthesis, and Formal verification.
-* 	Independently design a submodule in short-distance encrypted communication chip SD8026, including chip specification analysis, AES (Advanced Encryption Standard) algorithm hardware implementation, and PPA (power, performance, and area) refinement. 
+* Independently design a submodule in short-distance encrypted communication chip SD8026, including chip specification analysis, AES (Advanced Encryption Standard) algorithm hardware implementation, and PPA (power, performance, and area) refinement. 
 
 
 Project Experience 
@@ -44,7 +44,7 @@ Bachelor Graduation Design： Research of Speech Noise Reduction Based on Multi-
 
 EE4690 Hardware Architecture for Artificial Intelligence Course Project 
 * Use C++ to simulate the edge detector using the Sober operator. 
-* 	Convert Sober-based edge detector into the digital circuit using HLS and then verify its performance using PYNQ (Python productivity for ZYNQ). 
+* Convert Sober-based edge detector into the digital circuit using HLS and then verify its performance using PYNQ (Python productivity for ZYNQ). 
 
 ET4370 Reconfigurable Computing Design Course Project 
 * Use Pytorch to build a simple image classifier with MNIST benchmark based on Binary Network (BNN). 
